@@ -1,0 +1,80 @@
+body {
+  text-align: center;
+  background-image: url("https://wallpapercave.com/wp/5uxGubf.gif");
+}
+
+h1 {
+  font-size: 5rem;
+  color: #fff;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #ff96ad;
+
+}
+
+footer {
+  color: #fff;
+  font-family: sans-serif;
+}
+
+.w {
+background-image: url("https://th.bing.com/th/id/OIP.pGoUwrfiuvy0LqdGctLHXgAAAA?pid=ImgDet&rs=1");
+}
+.a {
+background-image: url("https://i.ebayimg.com/thumbs/images/g/EjMAAOSw1R1awnnU/s-l225.jpg");
+}
+
+.s {
+background-image: url("https://thumbs.dreamstime.com/t/set-musical-instruments-7356599.jpg");
+}
+
+.d {
+background-image: url("https://i.ebayimg.com/thumbs/images/g/1DcAAOSwY8FgE5Dc/s-l200.jpg");
+}
+
+.j {
+background-image: url("https://www.snaredrumreview.com/wp-content/uploads/2018/06/TamaSLPGeries.jpg");
+}
+
+.k {
+background-image: url("https://i.pinimg.com/236x/62/fc/63/62fc63d922dc0930c475925f34d70d8b--drum-heads-skin-head.jpg");
+}
+
+.l {
+background-image: url("https://i.pinimg.com/236x/25/82/5e/25825e04a39561c633411ae9d8bd41d7.jpg?nii=t");
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 5rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #DA0463;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 175px;
+  height: 175px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
